@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 20px;
+    margin: 0;
+    margin-top: -25px;
+    height: 80px;
+    background: linear-gradient(rgb(16, 16, 86), rgb(16, 16, 198), rgb(19, 19, 44))
+    
+}
+h1 {
+    text-align: center;
+    color: rgb(245, 207, 207);
+}
+
+.container {
+    max-width: 500px;
+    min-height: 500px;
+    border: 1px solid rgb(124, 38, 38);
+    margin: 40px auto;
+    box-shadow: 0 0 20px 0 rgba(214,16,16,0.6);
+    display: flex;
+    flex-wrap: wrap;
+}
