@@ -19,7 +19,7 @@ h1 {
 
 .container {
     max-width: 500px;
-    min-height: 500px;
+    max-height: 500px;
     border: 1px solid rgb(124, 38, 38);
     margin: 40px auto;
     box-shadow: 0 0 20px 0 rgba(214,16,16,0.6);
