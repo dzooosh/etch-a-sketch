@@ -1,5 +1,9 @@
 # Etch-A-Sketch
 
+check out the site (still in development)
+
+> https://dzooosh.github.io/etch-a-sketch/
+
 `A webpage with a Grid of square divs.`
 
 - Creates the divs using JavaScript.
