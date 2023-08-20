@@ -13,3 +13,4 @@
 
 - Adds a button to the top of the screen that will send the user a popup asking for the number of squares per side for the new grid.
 
+> For now you'd need to shift the range and reload page to see changes
