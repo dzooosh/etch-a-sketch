@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
     <title>Document</title>
 </head>
 <body>
@@ -11,10 +10,12 @@
         <h1>ETCH-A-SKETCH</h1>
     </header>
     <div class="main">
-        <div class="content">
-            <input type="range" min="10" max=""
+        <div class="range">
+            <input id="pixel_range" type="range" min="10" max="100" value="32" step="1">
+            <label for="range">Range</label>
         </div>
         <div class="container"></div>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
